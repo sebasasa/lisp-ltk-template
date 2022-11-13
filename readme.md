@@ -1,3 +1,5 @@
+# LTK Common Lisp GUI Starter Template
+
 Estamos usando ltk que parece que es el que funciona mejor, me habria gustado usar qt, pero que se ahace 
 
 Lo que pasa es que en macos, tk no funciona correctamente. Hay que hacer esto: 
